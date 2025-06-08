@@ -6,7 +6,8 @@ My Npm
 
 `Bash`
 ```
-npm install && npm install github:rehantesla/customnpmcjs
+npm install
+npm install github:rehantesla/customnpmcjs
 ```
 `Panggil`
 ```

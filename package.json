@@ -1,0 +1,15 @@
+{
+    "name": "MyNpmCjs",
+    "version": "1.0.0",
+    "description": "Custom NPM",
+    "main": "./index.js",
+    "type": "commonjs",
+    "files": ["index.js"],
+    "keywords": ["bot", "whatsapp", "util"],
+    "author": "RehanTesla",
+    "license": "MIT",
+    "dependencies": {
+        "module": "^1.2.5",
+        "readline": "^1.0.0"
+    }
+}
